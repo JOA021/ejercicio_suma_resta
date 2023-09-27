@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    position: relative;
+    width: 50%;
+}
+
+.espacio{
+    padding-right: 5vw;
+}
